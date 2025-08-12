@@ -1,0 +1,1 @@
+-- Q: How do I extract the FIRST name from ContactName in dbo.t_w3_schools_customers?
